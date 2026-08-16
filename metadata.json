@@ -2,6 +2,6 @@
   "name": "Aura: Global Weather & Air Quality Hub",
   "description": "Interactive global weather, micro-climate insights, and real-time air quality monitoring dashboard with live Open-Meteo forecasts and radar simulation.",
   "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
 
